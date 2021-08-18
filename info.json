@@ -1,0 +1,12 @@
+{
+  "name": "timed_technology_krastorio",
+  "version": "1.1.0",
+  "factorio_version": "1.1",
+  "title": "Timed Technology Kastorio",
+  "author": "Stefan Berg",
+  "description": "Changes basic technology card to take time and energy instead of resources",
+   "dependencies": [
+   "base >= 1.1.0",
+   "Krastorio2 >= 1.1"
+   ]
+}
